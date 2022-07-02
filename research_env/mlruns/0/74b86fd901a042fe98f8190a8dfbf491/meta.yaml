@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acreddy/Desktop/mlflow-1/pytorch/mlflow-pytorch/research_env/mlruns/0/74b86fd901a042fe98f8190a8dfbf491/artifacts
+end_time: 1656764347488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 74b86fd901a042fe98f8190a8dfbf491
+run_uuid: 74b86fd901a042fe98f8190a8dfbf491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656764341346
+status: 4
+tags: []
+user_id: acreddy
